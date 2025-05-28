@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bizoncornu974
-- 👀 I’m interested in d
-- 🌱 I’m currently learning Développeur Web Gaming
-- 💞️ I’m looking to collaborate on me
+- 👀 I’m interested in  jeux video 
+- 🌱 I’m currently learning Développement Web Gaming
+- 💞️ I’m looking to collaborate avec vous
 - 📫 How to reach me bizoncornu96@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...bizon 
 - ⚡ Fun fact: ...
 
 <!---
